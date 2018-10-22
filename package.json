@@ -10,5 +10,10 @@
     "kello"
   ],
   "author": "kello",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0",
+    "koa-socket": "^4.4.0"
+  }
 }
